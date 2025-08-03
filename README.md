@@ -4,7 +4,7 @@ Branch IT Induction of Guru  Nanak Dev Engeenering .<br>
 # Welcome to the official report of induction program 
 # Gurdwara Sahib <br>
 - First visit to *Gurdwara Sahib* of our college.<br>
-- Everyone listenes *Paath*.<br>
+- Everyone listened *Paath*.<br>
 
 ## Auditorium
 - Special Guest
@@ -15,7 +15,7 @@ Branch IT Induction of Guru  Nanak Dev Engeenering .<br>
   * Our Respected Principle Sir adressed  us about the Importance of IT and CSE
 -  *Rakesh Kumar* (Chief Guest ) (sir was passed out in 1991 batch )
   * He mentioned that this was his **first visit back to the college since 1991**, and seeing the campus again brought back a **flood of memories**.  
-- *Ravinder Garg* (Chief Eng.at Municiple corporate in Ludhiana )
+- *Ravinder Garg* (Chief Eng.at Municiple corporation in Ludhiana )
   * He motivated all students to **stay disciplined, study hard, and believe in themselves**, assuring that dedication and focus will always lead to success.
     
   * Thanks to all the faculty members and dignitaries for making the program a grand success!
