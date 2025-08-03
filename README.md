@@ -9,10 +9,10 @@ Branch IT Induction of Guru  Nanak Dev Engeenering .<br>
 ## Auditorium
 - Special Guest
 - *Harsimran Singh* (Sir) -
-- * DR.Harpreet Kaur Grewal *  (Mam)(HOD)
+- *DR.Harpreet Kaur Grewal*  (Mam)(HOD)
   * Mam tells us about the growth in our journey and she said that we have to keep paitence,persistence ,dedication,hardwork in our journey.
-- *DR. Shajpal Singh *  (sir)(principle)
-  * Our Respected Principle Sir adressed  us about the Importance of IT and CSE
+-   *DR. Shejpal Singh*  (sir)(principle)
+-   Our Respected Principle Sir adressed  us about the Importance of IT and CSE
 -  *Rakesh Kumar* (Chief Guest ) (sir was passed out in 1991 batch )
   * He mentioned that this was his **first visit back to the college since 1991**, and seeing the campus again brought back a **flood of memories**.  
 - *Ravinder Garg* (Chief Eng.at Municiple corporation in Ludhiana )
