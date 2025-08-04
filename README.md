@@ -1,6 +1,6 @@
 # induction_simran
 Branch IT Induction of Guru  Nanak Dev Engeenering .<br> 
-#Day 1
+#Day 1 (31-7-2025)
 # Welcome to the official report of induction program 
 # Gurdwara Sahib <br>
 - First visit to *Gurdwara Sahib* of our college.<br>
