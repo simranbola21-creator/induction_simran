@@ -56,7 +56,15 @@ GURU NANAK DEV ENGINEERING COLLEGE (2-4-2025)
      -  He also discussed sound effects and how sound travel through different mediums using wave motion.
   2. Lecture on Universal Human Values (UHV):
      - The teacher discussed key life concepts such as :
-#
+-  The teacher discussed key life concepts such as :
+     - Right Understanding
+     - Physical Facilities
+     - Relationships
+     - The lecture focused on how these contribute to a balanced and meaningful life
+     - Teacher said that if someone throw their anger on you , it doesnot always mean they hate you - it could mean they are struggling internally.
+       We should try to understand and their problem and talk to them with empathy instead of reacting negatively.
+     - During the lecture , the teacher aaked us questions about how we spend our time daily, helping us reflect on our routine and values.
+     - At the end of the session , we were given an assignment on UHV to complete and submit .
 
 
 
