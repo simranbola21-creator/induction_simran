@@ -65,6 +65,22 @@ GURU NANAK DEV ENGINEERING COLLEGE (2-4-2025)
        We should try to understand and their problem and talk to them with empathy instead of reacting negatively.
      - During the lecture , the teacher aaked us questions about how we spend our time daily, helping us reflect on our routine and values.
      - At the end of the session , we were given an assignment on UHV to complete and submit .
+ 
+   
+         # INDUCTION-DAY-4
+Date (4-8-2025)
+       GURU NANAK DEV ENGINEERING COLLEGE
+# CAUMIC CLUB SESSION
+   - The day began with a session in the auditorium, where our seniors introduced the Caumic Club. They shared information about upcoming competitions and encouraged us to participate and explore our interests through the club's activities.
+# MOTOR CARS LECTURE
+   - After that, we had a lecture on Motor Cars. The sir explained the working of motor cars, shared various examples, and helped us understand the basic concepts in a simple and engaging way.
+# Universal Human Values
+- Following this, there was a Universal Human Values (UHV) lecture. In this session, the teacher spoke about the importance of trust, patience, and how to manage anger issues. It was an insightful discussion that helped us reflect on our own behavior and emotional control.
+*Break* (12:30 am to 1:30 pm) 
+#English Lecture 
+ - Later, in the English lecture, we were asked to give a short self-introduction to the teacher. The teacher then taught us about consonants and vowels, and explained the basics of speech sounds, which was very informative and helpful
+#P2P LECTURE 
+ - We had the P2P lecture, where our seniors introduced us to C++ programming language. They explained the basic concepts of algorithms, how to write pseudocode, and how to draw a flowchart to represent a problem logically. It was a helpful session that gave us a basic understanding of programming concepts.
 
 
 
