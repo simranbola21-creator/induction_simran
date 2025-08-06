@@ -1,4 +1,5 @@
-# induction_simran
+# Induction Day 1
+
 Branch IT Induction of Guru  Nanak Dev Engeenering .<br> 
 #Day 1 (31-7-2025)
 # Welcome to the official report of induction program 
@@ -8,7 +9,7 @@ Branch IT Induction of Guru  Nanak Dev Engeenering .<br>
 
 ## Auditorium
 - Special Guest
-- *Harsimran Singh* (Sir) -
+- *Harsimran Singh* (Sir) 
 - *DR.Harpreet Kaur Grewal*  (Mam)(HOD)
   * Mam tells us about the growth in our journey and she said that we have to keep paitence,persistence ,dedication,hardwork in our journey.
 -   *DR. Shejpal Singh*  (sir)(principle)
@@ -20,7 +21,7 @@ Branch IT Induction of Guru  Nanak Dev Engeenering .<br>
     
   * Thanks to all the faculty members and dignitaries for making the program a grand success!
 
-   # INDUCTION-DAY-2
+   # INDUCTION-DAY-2 (1 -7-25)
 # Activities of the day 
 
 1. *English Proficiency Test*: <br>
@@ -36,7 +37,7 @@ Branch IT Induction of Guru  Nanak Dev Engeenering .<br>
    
 
 
-# INDUCTION-DAY-3
+# INDUCTION-DAY-3(2-7-25)
 GURU NANAK DEV ENGINEERING COLLEGE (2-4-2025)
 # Activities of the Day 
 1. Spritiual Lecture in Auditorium :
@@ -68,20 +69,48 @@ GURU NANAK DEV ENGINEERING COLLEGE (2-4-2025)
  
    
          # INDUCTION-DAY-4
-Date (4-8-2025)
+     Date (4-8-2025)
        GURU NANAK DEV ENGINEERING COLLEGE
-# CAUMIC CLUB SESSION
+# CAUSMIC CLUB SESSION
    - The day began with a session in the auditorium, where our seniors introduced the Caumic Club. They shared information about upcoming competitions and encouraged us to participate and explore our interests through the club's activities.
 # MOTOR CARS LECTURE
    - After that, we had a lecture on Motor Cars. The sir explained the working of motor cars, shared various examples, and helped us understand the basic concepts in a simple and engaging way.
 # Universal Human Values
 - Following this, there was a Universal Human Values (UHV) lecture. In this session, the teacher spoke about the importance of trust, patience, and how to manage anger issues. It was an insightful discussion that helped us reflect on our own behavior and emotional control.
 *Break* (12:30 am to 1:30 pm) 
-#English Lecture 
+# English Lecture 
  - Later, in the English lecture, we were asked to give a short self-introduction to the teacher. The teacher then taught us about consonants and vowels, and explained the basics of speech sounds, which was very informative and helpful
-#P2P LECTURE 
+# P2P LECTURE 
  - We had the P2P lecture, where our seniors introduced us to C++ programming language. They explained the basic concepts of algorithms, how to write pseudocode, and how to draw a flowchart to represent a problem logically. It was a helpful session that gave us a basic understanding of programming concepts.
 
 
 
+     # Induction Day 5
+   
+   ## Mrs . Shaffy Makkar 
+  - She explained the importance of millets in today’s world, highlighting their increasing demand in the market due to rising awareness about health and nutrition.
+  -  Mam emphasized that millets are highly beneficial for health, as they are rich in nutrients, easy to digest, and help in preventing lifestyle-related diseases.She also       explained how to prepare millet-based food, mentioning that millets should be soaked for 6 to 8 hours before cooking to enhance their digestibility and nutritional           value.In addition to the health benefits.
+  -  Mam stressed the growing need for millets in the market. She encouraged students to consider building a business around millets, as it holds great potential in             the current health-conscious and sustainability-driven environment.
 
+      
+  ## Induction Day 6 
+  
+  ###  Dr. Parminder Singh ( Dean of Students Welfare )
+  Sir gave us a detailed overview of the various facilities provided by the college. He spoke about scholarships available for students, the canteens, sports facilities, hostels, and mess services. The session was very informative and helped us understand the support system and infrastructure available on campus.
+  ### Mr. Manpreet singh ( Fittness coach )
+  - Due to long study hours and screen time, engineers often neglect their health. Sir explained how staying active boosts focus and energy.
+   - He shared how simple exercises like walking, running, yoga, or gym workouts can improve our lifestyle and reduce stress.
+   - Sir talked about healthy eating habits and explained the role of whey protein in muscle building and recovery after workouts.
+  - Sir clearly said that students should not take drugs or drink beer, as these harm both health and career.
+  - He encouraged us to make fitness a part of our daily life and reminded us that a healthy body helps us succeed in every area.
+  - Then we ask our doubts about workouts .
+
+# Brigadier P.S. Cheema Sir
+ Brigadier P.S. Cheema Sir gave a powerful and inspiring lecture about the importance of this stage of life. He connected discipline from army life with student    responsibilities and encouraged all of us to work hard.
+- Spoke about the value of youth and how this age is a golden period for building our future.
+- Highlighted the importance of education, discipline, and time management.
+- Shared insights from the army – how hard work and dedication can build a strong character.
+- Encouraged students to study hard and stay focused on their goals.
+- Inspired everyone to serve the nation and make their families proud through sincere efforts.
+- Sir also recited motivational shayaris by Surjit Patar, which deeply inspired everyone and connected emotionally with students.
+ 
