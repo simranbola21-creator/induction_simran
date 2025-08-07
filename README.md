@@ -85,7 +85,7 @@ GURU NANAK DEV ENGINEERING COLLEGE (2-4-2025)
 
 
 
-     # Induction Day 5
+     # Induction Day 5 (5-8-25)
    
    ## Mrs . Shaffy Makkar 
   - She explained the importance of millets in today’s world, highlighting their increasing demand in the market due to rising awareness about health and nutrition.
@@ -93,7 +93,7 @@ GURU NANAK DEV ENGINEERING COLLEGE (2-4-2025)
   -  Mam stressed the growing need for millets in the market. She encouraged students to consider building a business around millets, as it holds great potential in             the current health-conscious and sustainability-driven environment.
 
       
-  ## Induction Day 6 
+  ## Induction Day 6 (6-8-2025)
   
   ###  Dr. Parminder Singh ( Dean of Students Welfare )
   Sir gave us a detailed overview of the various facilities provided by the college. He spoke about scholarships available for students, the canteens, sports facilities, hostels, and mess services. The session was very informative and helped us understand the support system and infrastructure available on campus.
@@ -116,7 +116,7 @@ GURU NANAK DEV ENGINEERING COLLEGE (2-4-2025)
 
 
   
-# INDUCTION DAY 7 
+# INDUCTION DAY 7 (7-8-2025)
 ## DR. LAKHVIR KHANNA ( INCHARGE -CML)
 
 - Sir introduced us to CML (Centre for Modern Learning) and encouraged us to join CML to enhance our skills alongside our regular studies.
