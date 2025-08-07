@@ -113,4 +113,25 @@ GURU NANAK DEV ENGINEERING COLLEGE (2-4-2025)
 - Encouraged students to study hard and stay focused on their goals.
 - Inspired everyone to serve the nation and make their families proud through sincere efforts.
 - Sir also recited motivational shayaris by Surjit Patar, which deeply inspired everyone and connected emotionally with students.
+
+
+  
+# INDUCTION DAY 7 
+## DR. LAKHVIR KHANNA ( INCHARGE -CML)
+
+- Sir introduced us to CML (Centre for Modern Learning) and encouraged us to join CML to enhance our skills alongside our regular studies.
+- Sir also informed us about NPTEL (National Programme on Technology Enhanced Learning), where we can enroll in additional online courses related to our interests or career goals.
+-Sir distributed the CML registration forms, and we filled them during the session.
+
+## Dr. JASVIR SINGH GREWAL ( INCHARGE -NSS )
+
+- In our first NSS session, we began by listening to Gurbani Kirtan performed by our senior NSS volunteers. It was a peaceful and spiritual start to the session.
+- After that, we played a fun game where a ball was thrown into the crowd, and whoever touched it first had to come up on stage. We were divided into two teams – Team A and Team B.
+-From each team, one student came forward and was given a task to make the other opponent laugh. Everyone enjoyed this activity a lot; it was full of fun and laughter.
+-Later, our seniors performed a skit, which was very entertaining and meaningful.
+
+
+
+ 
+
  
