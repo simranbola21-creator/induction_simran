@@ -12,8 +12,8 @@ Branch IT Induction of Guru  Nanak Dev Engeenering .<br>
 - *Harsimran Singh* (Sir) 
 - *DR.Harpreet Kaur Grewal*  (Mam)(HOD)
   * Mam tells us about the growth in our journey and she said that we have to keep paitence,persistence ,dedication,hardwork in our journey.
--   *DR. Shejpal Singh*  (sir)(principle)
--   Our Respected Principle Sir adressed  us about the Importance of IT and CSE
+-   *DR. Sehajpal Singh*  (sir)(principal)
+-   Our Respected Principal Sir adressed  us about the Importance of IT and CSE
 -  *Rakesh Kumar* (Chief Guest ) (sir was passed out in 1991 batch )
   * He mentioned that this was his **first visit back to the college since 1991**, and seeing the campus again brought back a **flood of memories**.  
 - *Ravinder Garg* (Chief Eng.at Municiple corporation in Ludhiana )
@@ -48,7 +48,7 @@ GURU NANAK DEV ENGINEERING COLLEGE (2-4-2025)
          - 0 represents us (humans),
          - 8 represents Maya (illusion)
             He gave a complete and clear explanation of this spritual number .
-  2. Inspirational Stories from Sikism :
+  2. Inspirational Stories from Sikhism :
       - He shared a beautiful story from the life of Guru Nanak Dev Ji emphasiznig that even the great gurus  were once students like us .
       - He also told us about *Bhagat Naam Dev Ji and his deep belief in God , showing how unshakeble faith can lead to spiritual growth.
   3. Science and Sound concept :
